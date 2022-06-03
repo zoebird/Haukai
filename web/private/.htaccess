@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Restricted access"​
-AuthUserFile "/thehaukai-restaurant/.htpasswd"​
+AuthUserFile "/https://thehaukai-restaurant.herokuapp.com/.htpasswd"​
 Require valid-user​
